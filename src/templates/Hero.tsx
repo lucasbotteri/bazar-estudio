@@ -12,6 +12,11 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
+          <Link href="https://www.facebook.com/Bazar-Estudio-107798538189455">
+            <a>Facebook</a>
+          </Link>
+        </li>
+        <li>
           <Link href="https://www.instagram.com/bazar_estudio/">
             <a>Instagram</a>
           </Link>
